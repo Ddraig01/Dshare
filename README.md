@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/decentralized-image-upload.git
+    git clone https://github.com/Ddraig01/Dshare.gitt
    ```
 
 2. Install dependencies for the hardhat:
