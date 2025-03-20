@@ -10,7 +10,8 @@
 
    
    # Install hardhat dependencies
-   npm install
+  ```bash
+    npm install
    ```
 
 3. Compile the smart contract for artifacts:
