@@ -8,9 +8,7 @@
 
 2. Install dependencies for the hardhat:
 
-   ```bash
-   # Navigate to the root directory
-   cd Dgdrive3.0
+   
    # Install hardhat dependencies
    npm install
    ```
